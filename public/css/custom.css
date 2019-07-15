@@ -1,0 +1,129 @@
+.news-content .post-info .desc {
+    height: 100px;
+    overflow: hidden;
+}
+
+.about-testimonials .popover .popover-content {
+    height: 220px;
+    overflow: hidden;
+}
+
+.partner {
+    border: 1px solid #f1edeb;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.partner img {
+    height: 100px;
+    width: 100px;
+}
+
+.partner-wrap {
+    background: #fff;
+    margin: 50px 0;
+}
+
+.modal {
+    /*position: absolute;*/
+    z-index: 9999999999999;
+    margin: 0 auto;
+}
+
+.modal-dialog {
+    top: 20%;
+}
+
+.modal-header {
+    padding-bottom: 5px;
+}
+
+.modal-footer {
+    padding: 0;
+}
+
+.modal-footer .btn-group button {
+    height: 40px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border: none;
+    border-right: 1px solid #ddd;
+}
+
+.modal-footer .btn-group:last-child > button {
+    border-right: 0;
+}
+
+.modal-body .form-group label {
+    margin-bottom: 7px;
+}
+
+#loading-screen {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999999999999999;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/ajax-loader.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.login .btn.success-button {
+    width: 100px !important;
+    margin-top: 30px;
+}
+
+#successModal .modal-body p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.post-thumbnail {
+    width: 160px;
+    height: 110px;
+    margin-right: 8px;
+    float: left;
+}
+
+.post-thumbnail a {
+    width: 100%;
+    height: 100%;
+}
+
+.post-thumbnail a img {
+    width: 100%;
+    height: 100%;
+}
+
+.feature-box .icon-box .icon img {
+    height: 60px;
+    width: 60px;
+}
+
+.client-list ul li a img {
+    width: 110px;
+    height: 100px;
+}
+
+.pricing-feature .item {
+    height: 200px;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+.project-video {
+    background: url(../img/about-video.png) no-repeat;
+    background-size: cover;
+    height: 532px;
+    padding: 26px;
+    overflow: hidden;
+}
+
+.project-video .video {
+    height: 335px;
+    overflow: hidden;
+}

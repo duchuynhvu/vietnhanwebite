@@ -1,0 +1,21 @@
+@media (min-width: 1199px) {
+	.home-video {
+	    background: #FFF;
+	   	height: 500px;
+	}
+	.home-video iframe{
+		height: 500px !important;
+	}
+	.about-video .video iframe {
+	    height: 340px !important;
+	    width: 610px !important;
+    	margin-left: 28px;
+	}
+	.project-video .video iframe{
+	    height: 335px !important;
+	    width: 605px !important;
+    	margin-left: 40px;
+	}
+}
+
+/*# sourceMappingURL=responsive-desktop.css.map */

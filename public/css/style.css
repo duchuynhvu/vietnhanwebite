@@ -1,0 +1,29 @@
+.preview {
+    width: 100px;
+}
+
+.pagination li {
+    display: inline;
+    padding: 10px;
+}
+
+.help-block {
+    color: red;
+}
+
+.floating-label {
+    top: -1.5rem !important;
+    font-size: 1rem !important;
+}
+
+.form-material .form-control {
+    padding: 5px !important;
+}
+
+.contact-message {
+    text-align: justify;
+}
+
+#upload-video {
+    display: none;
+}

@@ -1,0 +1,24 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  	.wrapp {
+    	height: 600px;
+	}
+    .home-video {
+	    background: #FFF;
+	   	height: 450px;
+	}
+	.home-video iframe{
+		height: 450px !important;
+	}
+	.about-video .video iframe {
+	    height: 335px !important;
+	    width: 515px !important;
+    	margin-left: 28px;
+	}
+	.project-video .video iframe{
+	    height: 335px !important;
+	    width: 510px !important;
+    	margin-left: 40px;
+	}
+}
+
+/*# sourceMappingURL=responsive-laptop.css.map */

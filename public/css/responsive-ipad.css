@@ -1,0 +1,21 @@
+@media (min-width: 768px) and (max-width: 991px) {
+	.home-video {
+	    background: #FFF;
+	   	height: 450px;
+	}
+	.home-video iframe{
+		height: 450px !important;
+	}
+	.about-video .video iframe {
+	    height: 335px !important;
+	    width: 390px !important;
+    	margin-left: 28px;
+	}
+	.project-video .video iframe{
+	    height: 370px !important;
+	    width: 660px !important;
+    	margin-left: 45px;
+	}
+}
+
+/*# sourceMappingURL=responsive-ipad.css.map */

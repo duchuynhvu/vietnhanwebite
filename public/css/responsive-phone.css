@@ -1,0 +1,199 @@
+@media (max-width: 767px) {
+	.navbar-collapse {
+	    background: #f28e20;
+	    z-index: 99999;
+	}
+	.logo img{
+		max-width: 100%;
+		height: auto;
+	}
+	.top-nav {
+	    height: 52px;
+	}
+	.bottom-header {
+	    margin-top: 50px;
+	}
+	.banner-content {
+	    height: auto;
+	    width: 100%;
+	}
+	.slider-banner{
+	    background:none !important;
+        height: auto;
+	}
+	.banner-content h1 {
+	    font-size: 20px;
+	    color: #f28e20;
+	}
+	.btn-inline a {
+	    background: #f28e20;
+	    width: 45%;
+	    float: left;
+	    font-size: 12px;
+	    color: #FFF;
+	    padding: 10px;
+	}
+	.banner-content .slideshow-wap {;
+	    width: 100%;
+	    height: 250px;
+	    margin: 105px auto 10px;
+	    padding: 12px;
+	}
+	.banner-content .slideshow-wap .slidershow {
+	    height: auto;
+	}
+	.features {
+	    padding-top: 50px;
+	}
+	.heading h1 {
+	    font-size: 30px;
+	}
+	.heading h3 {
+	    font-size: 18px;
+	    margin-bottom: 50px;
+	}
+	.features .feature-content {
+	    height: auto;
+	    padding-bottom: 25px;
+	}
+	.features .feature-content .feature-box {
+	    margin-top: 25px;
+	}
+	.home-about .panel-group {
+	    margin-left: 0;
+	}
+	.home-about .panel-heading .panel-title a {
+	    font-size: 12px;
+	}
+	.home-about .panel-heading .accordion-toggle:after {
+        height: 50px;
+	    width: 50px;
+	    margin-top: -19px;
+	    margin-left: -16px;
+	    line-height: 42px;
+	}
+	.home-about .panel-heading .accordion-toggle.collapsed:after {
+	    line-height: 47px;
+	}
+	.home-about .panel-body {
+	    text-align: justify;
+	}
+	.home-video {
+	    background: #FFF;
+	   	height: 150px;
+	}
+	.home-video iframe{
+		height: auto !important;
+	}
+	.testimonials .home-testi-avatar {
+	    margin-bottom: 20px;
+	}
+	.home-our-client .client-list ul li {
+	    display: inherit;
+	    float: left;
+	    width: 50%;
+	    text-align: center;
+	}
+	.footer .footer-columns, .footer-logo{
+		text-align: center;
+	}
+	.footer .footer-columns h3 {
+	    margin-bottom: 10px;
+	    margin-top: 30px;
+	}
+	.navbar li .dropdown-menu, .navbar li:hover .dropdown-menu{
+		display: none;
+	}
+	.navbar li.open .dropdown-menu{
+		display: block;
+	}
+	.navbar{
+		margin: 0 -15px;
+	}
+	.navbar li a {
+	    line-height: 40px;
+	}
+	.navbar-nav {
+	    margin: 0;
+	}
+	.navbar .open .dropdown-menu li a, .navbar li:hover .dropdown-menu li a {
+	    line-height: 20px !important;
+        padding: 5px 50px;
+	}
+	.about-us-content .about-video {
+	    background-size: contain;
+	    height: 236px;
+	    padding: 12px;
+	    width: 100%;
+	}
+	.about-us-content .about-video .video {
+	    height: 150px;
+		width: 270px;
+	}
+	.about-video .video iframe{
+	    height: 100px !important;
+	    width: 185px !important;
+    	margin-left: 8px;
+	}
+	.project-video {
+	    background-size: contain;
+	    height: 236px;
+	    padding: 12px;
+	    width: 100%;
+	}
+	.project-video .video {
+	    height: 150px;
+		width: 270px;
+	}
+	.project-video .video iframe{
+	    height: 150px !important;
+	    width: 265px !important;
+    	margin-left: 28px;
+	}
+	.about-us-content .wapp-text h1 {
+	    font-size: 24px;
+	}
+	.list-service ul li div {
+	    min-height: 95px;
+	}
+	.list-service ul li .right-text h4 {
+	    font-size: 13px;
+	}
+	.projects-testimonials .popover-content {
+	    font-size: 12px;
+	    padding: 10px 10px !important;
+	}
+	.feature-page-banner {
+        height: 210px;
+	    background: #FFF !important;
+	}
+	.feature-page-banner .banner-content .slideshow-wap {
+	    display: none;
+	}
+	.feature-page-banner .banner-content {
+	    height: auto;
+	}
+	.features {
+	    padding-top: 0;
+	}
+	.pricing-feature .item h5 {
+	    font-size: 16px;
+	}
+	.pricing-banner {
+	    height: 95px;
+	}
+	.pricing-banner .top-banner h1 {
+	    font-size: 20px;
+	}
+	.employees .wapp-employ {
+	    margin-top: 0;
+	    margin-bottom: 20px;
+	}
+	.training{
+		height: 170px;
+	}
+	.contact h1 {
+	    font-size: 30px;
+	}
+}
+
